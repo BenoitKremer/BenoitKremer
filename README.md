@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benoitkremer" alt="benoitkremer" /></a> </p>
 
 - Don't hesitate to look my others accounts like:
-  - HackTheBox : 
+  - HackTheBox : https://app.hackthebox.com/users/1759651
 - 📫 How to reach me **benoit.kremer30140@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

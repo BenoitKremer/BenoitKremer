@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benoitkremer" alt="benoitkremer" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, C#, Unity**
-
-- 🤝 I’m looking for help with **internship about Web developer**
-
+- Don't hesitate to look my others accounts like:
+  - HackTheBox : 
 - 📫 How to reach me **benoit.kremer30140@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
